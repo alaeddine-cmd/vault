@@ -1,6 +1,20 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-image: url('back3.jpg');
+  background-size: cover;
+  background-position: center;
+  font-family: 'Pacifico', cursive; /* use the font */
+
+}
 .App {
   text-align: center;
-}
+  padding-top: 80px; /* Add padding-top to match the margin-top */
+  font-family: 'Pacifico', cursive; /* use the font */
+
+  }
 
 .App-logo {
   height: 40vmin;
